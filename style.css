@@ -1,0 +1,10 @@
+.rectangle{
+   position:relative;
+   display: inline-block;
+   margin:0em .5em;
+   padding:0.25em 1.25em;
+   background:#555;
+   color:#fff;
+   text-decoration:none;
+   overflow:hidden;
+}
